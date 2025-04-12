@@ -30,4 +30,5 @@ def check_vowels():
         print("Contiene u: True")    
     else:
         print("Contiene u: False")
-check_vowels()
+if __name__ == "__main__":
+    check_vowels()
